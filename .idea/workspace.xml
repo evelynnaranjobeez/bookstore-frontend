@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ff40efd-1a42-4730-b42a-d138e5ed4524" name="Changes" comment="clean code">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     "dart.analysis.tool.window.visible": "false",
     "flutter.view.tool.window.visible": "true",
     "io.flutter.reload.alreadyRun": "true",
-    "last_opened_file_path": "/Users/evelynnaranjo/bookstore-frontend",
+    "last_opened_file_path": "/Users/evelynnaranjo/bookstore-frontend-fail",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726668414373</updated>
       <workItem from="1726668422582" duration="34392000" />
+      <workItem from="1726782502269" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="new changes">
       <option name="closed" value="true" />
